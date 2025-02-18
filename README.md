@@ -1,5 +1,5 @@
 # mcis6273_s25_datamining
-My Zotero username is AbhignaCY.
+My Zotero username is AbhignaCY. Link to the account : https://www.zotero.org/abhignacy
 This repo is created to work on datamining from basics. 
 We are going to go through basics of github and its environment. 
 Then going to get familiarized with jupyterlab environment, markdown and python.
